@@ -1,4 +1,4 @@
-#ID 19
+#Sigo probando como sincronizar con kananize  #taskid 19
 #Creo clase Pregunta
 class Pregunta():
 
