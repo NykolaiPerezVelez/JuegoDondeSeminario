@@ -97,7 +97,6 @@ def main(usuarioJugando):
         pygame.display.flip()
 
 
-
 #######################################################################
 #Ubico y pongo la pantalla
     screen.blit(background_image, (0, 0))
@@ -160,12 +159,11 @@ def main(usuarioJugando):
     puntajeFinalJuego = puntosAcumulados
 
 
-
     #Instancio al usuario que termino de jugar
     instanciaUsuario (usuarioJugando, puntajeFinalJuego)
 
-
-    mostrarPantallaGameOver()
+    #Entro a la pantalla con el puntaje final, para mostrarlo
+    mostrarPantallaGameOver(puntajeFinalJuego)
 
 
 

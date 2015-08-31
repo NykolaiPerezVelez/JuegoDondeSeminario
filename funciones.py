@@ -302,8 +302,22 @@ def buscarUsuarioEnTXT(n, dni, matriz):
 
 
 
+##########################################################################
+def MostrarPuntosFinales(p):
+        #Defino Fuentes
+        pygame.font.init()
+        fuente = pygame.font.Font(None, 50)
+        texto7 = fuente.render("Puntos Finales: " + str(p), 1, (33, 33, 15))
+        screen.blit(texto7, (100, 40))
+        pygame.display.flip()
 ###########################################################################
-def mostrarPantallaGameOver():
+
+
+
+###########################################################################
+def mostrarPantallaGameOver(p):
+
+
 
         #Cargo y reproduzco la cancion
         pygame.mixer.init
@@ -329,10 +343,25 @@ def mostrarPantallaGameOver():
         background_image = load_image('game-over.png')
 
 
+        #Funcion interna para mostrar la puntuacion final
+        def MostrarPuntosFinales(p):
+            #Defino Fuentes
+            pygame.font.init()
+            fuente = pygame.font.Font(None, 100)
+            texto7 = fuente.render("Puntos Finales: " + str(p), 1, (99, 33, 15))
+            screen.blit(texto7, (170, 300))
+            pygame.display.flip()
+
+
+
 
         #Ubico y pongo la pantalla
         screen.blit(background_image, (0, 0))
         pygame.display.flip()
+
+        #Muestro puntaje final
+        MostrarPuntosFinales(p)
+
 
         tiempo = 0
         while tiempo <= 1999990:

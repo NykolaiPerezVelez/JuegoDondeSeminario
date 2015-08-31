@@ -148,8 +148,8 @@ def cargar_usuarios():
 
 
 
-def creditos():
-    print (" Función que muestra los creditos del programa.")
+def como_jugar():
+    print (" Esto explica el juego")
 
 def salir_del_programa():
     print (" Gracias por utilizar este programa.")
@@ -162,7 +162,7 @@ if __name__ == '__main__':
     opciones = [
         ("Jugar", comenzar_nuevo_juego),
         ("Ingresar Usuario", cargar_usuarios),
-        ("Creditos", creditos),
+        ("¿Como se juega?", como_jugar),
         ("Salir", salir_del_programa)
         ]
 
