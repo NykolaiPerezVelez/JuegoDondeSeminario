@@ -203,6 +203,7 @@ def SegunDistancia(d, p, t):  #Distancia, puntos y neuronas
     if d <= 20:
         resultado = "IMPRESIONANTE"
        #Cargo y reproduzco la cancion
+        pygame.mixer.init
         pygame.mixer.music.load("ovacion.mp3")
         pygame.mixer.music.play()
         p = p + 73
@@ -304,6 +305,11 @@ def buscarUsuarioEnTXT(n, dni, matriz):
 ###########################################################################
 def mostrarPantallaGameOver():
 
+        #Cargo y reproduzco la cancion
+        pygame.mixer.init
+        pygame.mixer.music.load("abucheo.mp3")
+        pygame.mixer.music.play()
+
 
         #PONGO FONDO PARA INICIAR JUEGO
         # Constantes
@@ -322,9 +328,7 @@ def mostrarPantallaGameOver():
         #Pongo el fondo con la imagen antes cargada
         background_image = load_image('game-over.png')
 
-        #Cargo y reproduzco la cancion
-        #pygame.mixer.music.load("abucheo.mp3")
-        #pygame.mixer.music.play()
+
 
         #Ubico y pongo la pantalla
         screen.blit(background_image, (0, 0))
