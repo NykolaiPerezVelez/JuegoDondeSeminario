@@ -1,0 +1,18 @@
+1,Nacio Rafael Nadal????,413,242
+2,Nacio Chespirito???,177,296
+3,Estan las Islas Sandwich???,339,504
+4,Nacio Usain Bolt????,230,331
+5,Ciudad mas peligrosa del mundo?,259,331
+6,"Transcurre la serie ""Sex and the city""",242,232
+7,Se encuentra el Tibet?,632,265
+9,Se encuentra el Monte Vesubio?,452,237
+10,Se llevo a cabo el Mundial de 1990?,452,237
+11,Nace el Río Nilo?,510,346
+12,estan Stonehedge???,417,201
+14,Se encuentra la Capilla Sixtina?,452,237
+15,Nacio Salvador Dali?,424,236
+16,Se encuentra el Arco del Triunfo?,424,225
+17,Se encuentra el Museo de Louvre?,424,225
+18,Nacio Pablo Picasso?,423,236
+19,Se encuentra El Taj Mahal?,615,293
+20,Se encuentran Las Piramides de Giza?,496,282
