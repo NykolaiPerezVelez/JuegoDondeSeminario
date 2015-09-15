@@ -216,8 +216,11 @@ def SegunDistancia(d, p, t):  #Distancia, puntos y neuronas
         t = t + 1
     if d > 40 and d <= 60:
         resultado = "Bien"
+<<<<<<< HEAD
         pygame.mixer.music.load("woo.mp3")
         pygame.mixer.music.play()
+=======
+>>>>>>> master
         p = p + 38
         t = t
     if d > 60 and d <= 80:
@@ -226,8 +229,11 @@ def SegunDistancia(d, p, t):  #Distancia, puntos y neuronas
         t = t - 1
     if d > 80 and d <= 100:
         resultado = "Mal"
+<<<<<<< HEAD
         pygame.mixer.music.load("nelson.mp3")
         pygame.mixer.music.play()
+=======
+>>>>>>> master
         p = p + 10
         t = t - 5
     if d > 100 and d <= 150:
@@ -238,8 +244,11 @@ def SegunDistancia(d, p, t):  #Distancia, puntos y neuronas
         t = t - 7
     if d > 150 and d <= 300:
         resultado = "Matate!!!"
+<<<<<<< HEAD
         pygame.mixer.music.load("homero.mp3")
         pygame.mixer.music.play()
+=======
+>>>>>>> master
         p = p - 13
         t = t - 13
     if d > 300:
