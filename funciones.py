@@ -209,30 +209,44 @@ def SegunDistancia(d, p, t):  #Distancia, puntos y neuronas
         t = t + 2
     if d > 20 and d <= 40:
         resultado = "Muy bien"
+        pygame.mixer.music.load("grito.mp3")
+        pygame.mixer.music.play()
         p = p + 57
         t = t + 1
     if d > 40 and d <= 60:
         resultado = "Bien"
+        pygame.mixer.music.load("susana.mp3")
+        pygame.mixer.music.play()
         p = p + 38
         t = t
     if d > 60 and d <= 80:
         resultado = "Regular"
+        pygame.mixer.music.load("woo.mp3")
+        pygame.mixer.music.play()
         p = p + 23
         t = t - 1
     if d > 80 and d <= 100:
         resultado = "Mal"
+        pygame.mixer.music.load("nelson.mp3")
+        pygame.mixer.music.play()
         p = p + 10
         t = t - 5
     if d > 100 and d <= 150:
         resultado = "Horrible"
+        pygame.mixer.music.load("abucheo.mp3")
+        pygame.mixer.music.play()
         p = p
         t = t - 7
     if d > 150 and d <= 300:
         resultado = "Matate!!!!!!!"
+        pygame.mixer.music.load("homero.mp3")
+        pygame.mixer.music.play()
         p = p - 13
         t = t - 13
     if d > 300:
         resultado = "Deja jugar a otro"
+        pygame.mixer.music.load("explosion.mp3")
+        pygame.mixer.music.play()
         t = -200
         p = p - 20
     return p, t, resultado
@@ -241,21 +255,11 @@ def SegunDistancia(d, p, t):  #Distancia, puntos y neuronas
 
 
 #########################################################################
-def PonerMusicaRandom():
-    import random
+def PonerMusica():
     pygame.mixer.init()
-    a = []
-    a.append("parajuego0.mp3")
-    a.append("parajuego1.mp3")
-    a.append("parajuego2.mp3")
-    a.append("parajuego3.mp3")
-    a.append("parajuego4.mp3")
-    a.append("parajuego5.mp3")
-    a.append("parajuego6.mp3")
-    a.append("parajuego7.mp3")
-    a.append("parajuego8.mp3")
-    pygame.mixer.music.load(a[random.randrange(9)])
+    pygame.mixer.music.load("Indiana.mp3")
     pygame.mixer.music.play(-1)
+
 ########################################################################
 
 ##############################################################################
