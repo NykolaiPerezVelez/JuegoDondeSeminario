@@ -48,15 +48,15 @@ def main():
 
 #########################################################################
     #Cargo y reproduzco la cancion
-    PonerMusicaRandom()
+    PonerMusica()
 ########################################################################
 
 ##########################################################################
 #Defino Fuentes
     pygame.font.init()
     fuente = pygame.font.Font(None, 50)
-    fuente1 = pygame.font.Font(None, 40)
-    fuente2 = pygame.font.Font(None, 25)
+    fuente1 = pygame.font.Font('kristen ITC.ttf', 30)
+    fuente2 = pygame.font.Font('kristen ITC.ttf', 18)
 
 
     def MostrarPuntos(punTotales, neu):
@@ -72,7 +72,7 @@ def main():
         screen.blit(background_image, (0, 0))
         pygame.display.flip()
         texto2 = fuente1.render(str(pregu), 1, (0, 0, 15))
-        screen.blit(texto2, (400, 0))
+        screen.blit(texto2, (10, 0))
         pygame.display.flip()
 
 
@@ -80,9 +80,9 @@ def main():
         texto3 = fuente2.render(str(resultado), 1, (0, 0, 15))
         texto4 = fuente2.render("Puntos: " + str(p), 1, (0, 0, 15))
         texto5 = fuente2.render("Neuronas: " + str(t), 1, (0, 0, 15))
-        screen.blit(texto3, (550, 420))
-        screen.blit(texto4, (550, 450))
-        screen.blit(texto5, (550, 480))
+        screen.blit(texto3, (350, 420))
+        screen.blit(texto4, (350, 450))
+        screen.blit(texto5, (350, 480))
         pygame.display.flip()
 #########################################################################
 
@@ -90,8 +90,8 @@ def main():
     def MostrarPuntosYNeuronasRestantes(t,p):
         texto6 = fuente2.render("Neuronas Vivas: " + str(t), 1, (0, 0, 15))
         texto7 = fuente2.render("Puntos Acumulados: " + str(p), 1, (0, 0, 15))
-        screen.blit(texto6, (100, 10))
-        screen.blit(texto7, (100, 40))
+        screen.blit(texto6, (10, 400))
+        screen.blit(texto7, (10, 430))
         pygame.display.flip()
 
 
