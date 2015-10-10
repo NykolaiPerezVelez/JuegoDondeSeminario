@@ -1,0 +1,147 @@
+1,Nacio Rafael Nadal????,413,242
+2,Nacio Chespirito???,177,296
+3,Estan las Islas Sandwich???,339,504
+4,Nacio Usain Bolt????,230,331
+5,Ciudad mas peligrosa del mundo?,259,331
+6,"Transcurre la serie ""Sex and the city""",242,232
+7,Se encuentra el Tibet?,632,265
+9,Se encuentra el Monte Vesubio?,452,237
+10,Se llevo a cabo el Mundial de 1990?,452,237
+11,Nace el Río Nilo?,510,346
+12,estan Stonehedge???,417,201
+14,Se encuentra la Capilla Sixtina?,452,237
+15,Nacio Salvador Dali?,424,236
+16,Se encuentra el Arco del Triunfo?,424,225
+17,Se encuentra el Museo de Louvre?,424,225
+18,Nacio Pablo Picasso?,423,236
+19,Se encuentra El Taj Mahal?,615,293
+20,Se encuentran Las Piramides de Giza?,496,282
+21,Nacio Sigmund Freud?,457,212
+22,Se encuentra el Glaciar Perito Moreno?,257,495
+23,Se encuentra el Moulin Rouge?,424,225
+24,Estallo la primera bomba atomica?,742,255
+25,Que ciudad posee una densidad de 1710 habitantes sobre Km cuadrado????,742,255
+26,Se encuentra el Machu Picchu?,242,381
+27,queda la Provincia Argentina principal productora de vino?,254,446
+28,llueve menos en Argentina?,259,411
+29,Se encuentra el Tren del Cielo?,258,420
+30,Nacio J K Rowling autora de Harry Potter?,418,207
+31,Se encuentra el canal de Beagle?,266,514
+32,Se encuentra la capital de Australia?,780,456
+33,Se encuentra la Republica de San Marino?,449,232
+34,Se encuentra la Catedral de Notre Dame?,131,244
+35,Nacio Steve Jobs?,131,244
+36,Se encuentra el monumento a la bandera Argentina?,271,439
+37,Nacio Alan Turing?,418,207
+38,Se estrello el avion de viven?,251,468
+39,Fue la primera edicion de los Juegos Olimpicos?,460,234
+40,nacio el medalla de oro en -80kg Taekwondo en las Olimpiadas 2012?,280,427
+41,Cual es el lugar mas caluroso del mundo?,140,241
+42,Se produjo el accidente nuclear en 1986?,481,209
+43,"Se formo el grupo ""The Beatles""?",418,207
+44,Se encuentra el Monte Rushmore?,178,220
+45,Nacio Elvis Presley?,205,251
+46,Tuvo el accidente aereo Carlos Gardel?,237,340
+47,Nacio Marie Curie?,462,207
+48,Se encuentra el Cerro Uritorco?,265,439
+49,Nacio Mark Zuckerberg?,242,242
+50,En que parte de Estados Unidos se encuentra la Falla de San Andres?,127,244
+51,Se origina el Gran Canion del Colorado?,149,253
+52,"Se filmo ""Siete Anios en el Tibet""?",254,446
+53,Nacio Ernesto Che Guevara?,271,439
+54,En que provincia Argentina se realiza el Oktoberfest?,265,439
+55,En que parte de Brasil se encuentra el Maracana?,319,407
+56,Que provincia Argentina es la principal productora de olivo?,258,428
+57,Se realiza la Fiesta Nacional de la Vendimia?,254,446
+58,Cual es la capital de Angola?,453,376
+59,"Se realiza ""Vinia del Mar""?",247,434
+60,Ciudad mas poblada del mundo?,757,246
+61,En que costa estuvo el epicentro el Tsunami de 2004?,700,363
+62,Se origino el fernet?,252,237
+63,Nacio Gianni Versace?,456,248
+64,Se ubica Neverland... propiedad de Michael Jackson?,127,244
+65,Nacio Mikhail Baryshnikov?,471,183
+66,"Residen en la serie ""Friends"" sus integrantes?",242,242
+67,Se encuentra la tumba de Jim Morrison?,424,225
+68,Se encuentra el Estudio Warner Bros en Estados Unidos?,127,244
+69,"Se encuentran ""Las Vegas""?",144,232
+70,"Se encuentra la Fontana di Trevi de""Dolce Vita""?",452,237
+71,Se encontraba el mitico CBGB?,242,242
+72,Se realizo el 1er campeonato Mundial de Futbol,286,439
+73,Se realizo el Woodstock de 1960?,127,244
+74,Se encuentra Plaza Navona?,447,202
+75,Murio Einstein?,256,227
+76,"Se situa la casa donde transcurre ""The Nanny""?",242,242
+77,Se realiza la Comic-Con International?,127,244
+78,Se situaba la casa de la serie Blanco y Negro?,242,242
+79,Nacio el Dr. Sheldon Cooper en la ficcion de Big Bang Theory?,178,266
+80,Se invento la Coca Cola?,519,235
+81,Nace la Opera?,449,232
+82,"Nacio Marty McFly en ""Volver al Futuro""?",127,244
+83,"Ocurrieron los hechos reales que inspiraron "Footlose'?",190,250
+84,Nacio Stephen Hawking?,418,210
+85,Se encuentra el museo de cera de Madame Tussauds?,418,210
+86,Asesinaron a Versace?,222,279
+87,Nacio Juan Pablo II?,462,207
+88,Se instalo el 1er cajero automatico?,418,210
+89,Se encuentra Miami?,222,279
+90,Nacio Al Capone?,452,237
+91,Se encuentra la Prisión de Alcatraz?,127,244
+92,Se encuentran las principales piramides de Egipto?,501,272
+93,Evolucionaron los koalas?,756,424
+94,En que archipielago de Hawaii se encuentra Pearl Harbor?,92,249
+95,Se encuentra la Estatua de la Libertad?,242,242
+96,Se construyo el Titanic?,406,199
+97,"Transcurre la pelicula ""Los cazafantasmas""?",242,242
+98,Donde nacio Frida Kahlo?,180,299
+99,Se encuentra el Pentagono Dep de Defensa de Estados Unidos?,243,243
+100,Nacio Leonardo DiCaprio?,127,244
+101,Principalmente se filmo Cinema Paradiso?,446,246
+102,Se encuentra la NASA?,178,266
+103,Se celebra San Fermin?,417,237
+104,Se encuentra la tumba de Elvis Presley?,208,254
+105,Se encuentra la ciudad mas ventosa del mundo?,839,480
+106,Se encuentra la ciudad mas lluviosa del mundo?,632,284
+107,Se invento la polvora?,632,265
+108,Tocaron por 1era vez los Beatles?,418,210
+109,Se encuentra el yacimiento mas importante del mundo?,534,279
+110,Se encuentra la sede central de Google?,125,245
+111,Se encuentra el famoso reloj Cu Cu?,265,439
+112,Se encuentra la Torre Pisa?,242,381
+113,Se origino el jazz?,424,225
+114,fallecio Ludwig Van Beethoven?,458,218
+115,Despego el satelite espacial argentino ARSAT 1?,281,337
+116,Se encuentra la sede de Walt Disney Animation Studio?,127,244
+117,Se encuentra la casa de Ana Frank?,432,203
+118,Se fundo Apple?,127,244
+119,actualmente reside Julian Assange?,418,210
+120,reside actualmente Edward Snowden?,37,298
+121,Nacio Isaac Newton?,418,207
+122,Se realizo la 1era clonacion de un mamifero?,413,191
+123,Se encontraban las Torres Gemelas?,242,242
+124,Se realizo el 1er trasplante de corazon?,208,254
+125,se encuentra el Teatro Colon?,281,445
+126,se encuentran las montañas de los Tepuyes?,260,335
+127,Se produjo el terremoto de Shaanxi?,632,265
+128,Se encuentran las islas Galapagos?,194,351
+129,nacio John Lennon?,416,200
+130,se entregan los Premios Nobel?,437,173
+131,se filmo la famosa serie Lost?,36,298
+132,se encuentra uno de los paises mas pequenios del mundo?,452,237
+133,se encuentra uno de los paises mas pobres del mundo?,227,303
+134,se encuentra la Universidad de Bolonia... una de las mas antiguas de la historia?,449,232
+135,se encuentra el Big Ben?,418,210
+136,se encuentra el famoso pueblo Notting Hill?,418,210
+137,se exhibe la Mona Lisa?,424,225
+138,se saco la foto famosa de los beatles cruzando la senda peatonal?,418,210
+139,Fue el lugar de nacimiento del Renacimiento?,445,231
+140,Se encuentra la ciudad mas poblada del sur de Italia?,452,237
+141,En que provincia Argentina se encontraron los restos del Argentinosaurus?,255,455
+142,Se ubica la universidad mas antigua del pais?,265,439
+143,Se encuentra el Palacio de Buckingham?,418,210
+144,Donde esta la capital de Hungria?,472,221
+145,Se encuentra Studio "54" en Estados Unidos?,242,242
+146,Se encuentra la principal productora de yerba mate?,288,420
+147,Es el hombre mas alto del mundo?,503,246
+148,Es el hombre mas bajo del mundo?,628,276
+149,Esta el ombligo del Mundo?,683,124

@@ -1,0 +1,149 @@
+﻿1,Nacio Rafael Nadal????,Mallorca,413,242
+2,Nacio Chespirito???,DF,177,296
+3,Estan las Islas Sandwich???,Sanwich,339,504
+4,Nacio Usain Bolt????,Jamaica,230,331
+5,Ciudad mas peligrosa del mundo?,Caracas,259,331
+6,"Transcurre la serie ""Sex and the city""???",Nueva York,242,232
+7,Se encuentra el Tibet?,China,632,265
+8,Nacio Mahatma Gandhi?,Porbandar,597,294
+9,Se encuentra el Monte Vesubio?,Napoles,452,237
+10,Se llevo a cabo el Mundial de 1990?,Italia,252,237
+11,Nace el Río Nilo?,Uganda,510,346
+12,estan Stonehedge???,Inglaterra,417,201
+13,Nacio Vincent Van gogh?,Zundert,429,207
+14,Se encuentra la Capilla Sixtina?,Roma ,452,237
+15,Nacio Salvador Dali?,Figueras,424,236
+16,Se encuentra el Arco del Triunfo?,Paris,424,225
+17,Se encuentra el Museo de Louvre?,Paris,424,225
+18,Nacio Pablo Picasso?,Malaga,423,236
+19,Se encuentra El Taj Mahal?,India,615,293
+20,Se encuentran Las Piramides de Giza?,Egipto,496,282
+21,Nacio Sigmund Freud?,Pribor,457,212
+22,Se encuentra el Glaciar Perito Moreno?,Santa Cruz,257,495
+23,Se encuentra el Moulin Rouge?,Paris,424,225
+24,Estallo la primera bomba atomica?,Hiroshima,742,255
+25,Que ciudad posee una densidad de 1710 habitantes sobre Km cuadrado????,Hiroshima,742,255
+26,Se encuentra el Machu Picchu?,Peru,242,381
+27,queda la Provincia Argentina principal productora de vino?,Mendoza,254,446
+28,llueve menos en Argentina?,Jujuy,259,411
+29,Se encuentra el Tren del Cielo?,Salta,258,420
+30,Nacio J K Rowling autora de Harry Potter?,Reino Unido,418,207
+31,Se encuentra el canal de Beagle?,Argentina,266,514
+32,Se encuentra la capital de Australia?,Canberra,780,456
+33,Se encuentra la Republica de San Marino?,Italia,449,232
+34,Se encuentra la Catedral de Notre Dame?,Francia,131,244
+35,Nacio Steve Jobs?,California,131,244
+36,Se encuentra el monumento a la bandera Argentina?,Santa Fe,271,439
+37,Nacio Alan Turing?,Londres,418,207
+38,Se estrello el avion de viven?,Cordillera de los Andes,251,468
+39,Fue la primera edicion de los Juegos Olimpicos?,Atenas,460,234
+40,Donde nacio el ganador de una medalla de oro en -80kg Taekwondo en las Olimpiadas 2012?,Corrientes,280,427
+41,Cual es el lugar mas caluroso del mundo?,El Valle de la Muerte,140,241
+42,Se produjo el accidente nuclear en 1986?,Chernobil,481,209
+43,"Se formo el grupo ""The Beatles""?",Inglaterra,418,207
+44,Se encuentra el Monte Rushmore?,Estados Unidos,178,220
+45,Nacio Elvis Presley?,Memphis,205,251
+46,Tuvo el accidente aereo Carlos Gardel?,Medellin,237,340
+47,Nacio Marie Curie?,Varzobia,462,207
+48,Se encuentra el Cerro Uritorco?,Cordoba,265,439
+49,Nacio Mark Zuckerberg?,New York,242,242
+50,En que parte de Estados Unidos se encuentra la Falla de San Andres?,California,127,244
+51,Se origina el Gran Canion del Colorado?,Arizona,149,253
+52,"Se filmo ""Siete Anios en el Tibet""?",Mendoza,254,446
+53,Nacio Ernesto Che Guevara?,Santa Fe,271,439
+54,En que provincia Argentina se realiza el Oktoberfest?,Cordoba,265,439
+55,En que parte de Brasil se encuentra el Maracana?,Rio de Janeiro,319,407
+56,Que provincia Argentina es la principal productora de olivo?,Catamarca,258,428
+57,Se realiza la Fiesta Nacional de la Vendimia?,Mendoza,254,446
+58,Cual es la capital de Angola?,Luanda,453,376
+59,"Se realiza ""Vinia del Mar""?",Valparaiso,247,434
+60,Ciudad mas poblada del mundo?,Tokio,757,246
+61,En que costa estuvo el epicentro el Tsunami de 2004?,Indonesia,700,363
+62,Se origino el fernet?,Milan,252,237
+63,Nacio Gianni Versace?,Calabria,456,248
+64,Se ubica Neverland... propiedad de Michael Jackson?,California,127,244
+65,Nacio Mikhail Baryshnikov?,Letonia,471,183
+66,"Residen en la serie ""Friends"" sus integrantes?",Nueva York,242,242
+67,Se encuentra la tumba de Jim Morrison?,Paris,424,225
+68,Se encuentra el Estudio Warner Bros en Estados Unidos?,California,127,244
+69,"Se encuentran ""Las Vegas""?",Nevada,144,232
+70,"Se encuentra la Fontana di Trevi donde se filmo la ""Dolce Vita""?",Roma ,452,237
+71,Se encontraba el mitico CBGB?,Nueva York,242,242
+72,Se realizo el 1er campeonato Mundial de Futbol,Uruguay,286,439
+73,Se realizo el Woodstock de 1960?,California,127,244
+74,Se encuentra Plaza Navona?,Berlin,447,202
+75,Murio Einstein?,Nueva Jersey,256,227
+76,"Se situa la casa donde transcurre ""The Nanny""?",Nueva York,242,242
+77,Se realiza la Comic-Con International?,California,127,244
+78,Se situaba la casa de la serie Blanco y Negro?,Nueva York,242,242
+79,Nacio el Dr. Sheldon Cooper en la ficcion de Big Bang Theory?,Texas,178,266
+80,Se invento la Coca Cola?,Georgia,519,235
+81,Nace la Opera?,Italia,449,232
+82,"Nacio Marty McFly en ""Volver al Futuro""?",California,127,244
+83,"Ocurrieron los hechos reales que inspiraron la pelicula ""Footlose'?",Oklahoma,190,250
+84,Nacio Stephen Hawking?,Oxford,418,210
+85,Se encuentra el museo de cera de Madame Tussauds?,Londres,418,210
+86,Asesinaron a Versace?,Miami,222,279
+87,Nacio Juan Pablo II?,Polonia,462,207
+88,Se instalo el 1er cajero automatico?,Londres,418,210
+89,Se encuentra Miami?,Florida,222,279
+90,Nacio Al Capone?,Napoles,452,237
+91,Se encuentra la Prisión de Alcatraz?,California,127,244
+92,Se encuentran las principales piramides de Egipto?,Guiza,501,272
+93,Evolucionaron los koalas?,Australia,756,424
+94,En que archipielago de Hawaii se encuentra Pearl Harbor?,Honolulu,92,249
+95,Se encuentra la Estatua de la Libertad?,Nueva York,242,242
+96,Se construyo el Titanic?,Belfast,406,199
+97,"Transcurre la pelicula ""Los cazafantasmas""?",Nueva York,242,242
+98,Donde nacio Frida Kahlo?,Coyoacan,180,299
+99,Se encuentra el Pentagono Departamento de Defensa de Estados Unidos?,Washington,243,243
+100,Nacio Leonardo DiCaprio?,California,127,244
+101,Principalmente se filmo Cinema Paradiso?,Sicilia,446,246
+102,Se encuentra la NASA?,Texas,178,266
+103,Se celebra San Fermin?,Pamplona,417,237
+104,Se encuentra la tumba de Elvis Presley?,Menphis,208,254
+105,Se encuentra la ciudad mas ventosa del mundo?,Wellington,839,480
+106,Se encuentra la ciudad mas lluviosa del mundo?,Cherrapunji,632,284
+107,Se invento la polvora?,China,632,265
+108,Tocaron por 1era vez los Beatles?,Londres,418,210
+109,Se encuentra el yacimiento mas importante del mundo?,Ghawar,534,279
+110,Se encuentra la sede central de Google?,San Francisco,125,245
+111,Se encuentra el famoso reloj Cu Cu?,Cordoba,265,439
+112,Se encuentra la Torre Pisa?,Pisa,242,381
+113,Se origino el jazz?,Orleans,424,225
+114,fallecio Ludwig Van Beethoven?,Viena,458,218
+115,Despego el satelite espacial argentino ARSAT 1?,Guayana Francesa,281,337
+116,Se encuentra la sede de Walt Disney Animation Studio?,California,127,244
+117,Se encuentra la casa de Ana Frank?,Amsterdan,432,203
+118,Se fundo Apple?,California,127,244
+119,actualmente reside Julian Assange?,Londres,418,210
+120,reside actualmente Edward Snowden?,Rusia,37,298
+121,Nacio Isaac Newton?,Reino Unido,418,207
+122,Se realizo la 1era clonacion de un mamifero?,Edimburgo,413,191
+123,Se encontraban las Torres Gemelas?,New York,242,242
+124,Se realizo el 1er trasplante de corazon?,Jackson,208,254
+125,se encuentra el Teatro Colon?,Buenos Aires,281,445
+126,se encuentran las montañas de los Tepuyes?,Venezuela,260,335
+127,Se produjo el terremoto de Shaanxi?,China,632,265
+128,Se encuentran las islas Galapagos?,Ecuador,194,351
+129,nacio John Lennon?,Liverpool,416,200
+130,se entregan los Premios Nobel?,Oslo,437,173
+131,se filmo la famosa serie Lost?,Hawai,36,298
+132,se encuentra uno de los paises mas pequenios del mundo?,Vaticano,452,237
+133,se encuentra uno de los paises mas pobres del mundo?,Haiti,227,303
+134,se encuentra la Universidad de Bolonia... una de las mas antiguas de la historia?,Italia,449,232
+135,se encuentra el Big Ben?,Londres,418,210
+136,se encuentra el famoso pueblo Notting Hill?,Londres,418,210
+137,se exhibe la Mona Lisa?,Paris,424,225
+138,se saco la foto famosa de los beatles cruzando la senda peatonal?,Londres,418,210
+139,Fue el lugar de nacimiento del Renacimiento?,Florencia,445,231
+140,Se encuentra la ciudad mas poblada del sur de Italia?,Napoles,452,237
+141,En que provincia Argentina se encontraron los restos del Argentinosaurus?,Neuquen,255,455
+142,Se ubica la universidad mas antigua del pais?,Cordoba,265,439
+143,Se encuentra el Palacio de Buckingham?,Londres,418,210
+144,Donde esta la capital de Hungria?,Budapest,472,221
+145,Se encuentra Studio 54 en Estados Unidos?,Nueva York,242,242
+146,Se encuentra la provincia Argentina que es la principal productora de yerba mate?,Misiones,288,420
+147,Es el hombre mas alto del mundo?,Turquia,503,246
+148,Es el hombre mas bajo del mundo?,Nepal,628,276
+149,Esta el ombligo del Mundo?,Mirna (Siberia Central),683,124
